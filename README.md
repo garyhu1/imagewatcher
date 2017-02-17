@@ -1,6 +1,7 @@
 # imagewatcher
 仿朋友圈查看图片
 ``
+   java
    /**
 	 * 横向滚动条移动的算法,计算dx是关键
 	 * @param 通过position找到选中的RadioButton
