@@ -33,6 +33,5 @@
         Log.i("123", "dx-->" + dx);
         //直接使用ScrollTo,ScrollBy对上次移动dx继续累加
         hsv.smoothScrollTo(dx, 0);
-        
     }
 ```
